@@ -1,4 +1,4 @@
-# MachineLearning_2021
+# MachineLearning_Projects
 Machine Learning course A.Y. 2021/2022.
 
 Prof. Pietro Zanuttigh
