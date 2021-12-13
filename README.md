@@ -29,7 +29,7 @@ I used the sklearn algorithm for support vector machines and evaluated the best 
 Then I compared the logistic regression results with the support vector machines for this very problem.
 
 
-Mark: 
+Mark: 1/1
 
 ## Neural_Network
 Kuzushiji Classification (ancient japanese characters) with Neural Network, in particolar with Multi-layer Perceptron classifier.
