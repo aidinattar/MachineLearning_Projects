@@ -38,4 +38,4 @@ I used the sklearn algorithm for MLP Neural Network and evaluated the best param
 Then I compared the logistic regression and the support vector machines results with the MLP neural network ones for this very problem.
 
 
-Mark: 
+Mark: 1/1
